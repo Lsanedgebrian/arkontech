@@ -1,0 +1,9 @@
+Todos os direitos reservados ao autor do projeto ARKONTECH.
+
+Este código é de uso privado e controlado. Nenhuma redistribuição, modificação ou uso comercial é permitida sem permissão formal.
+
+Autorizo o uso deste repositório por ferramentas de Inteligência Artificial (como o GPT) somente mediante interação direta comigo para análises, geração de blocos e refatorações simbólicas.
+
+Todos os demais usos estão restritos.
+
+© 2025 ARKONTECH SYSTEM
