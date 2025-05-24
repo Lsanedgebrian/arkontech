@@ -1,0 +1,10 @@
+{
+    "id": "CON001",
+    "nome_simbolico": "conector_simples",
+    "fase": "C",
+    "tipo": "conector",
+    "criador": "LSAN",
+    "descricao": "Conecta blocos de forma sequencial",
+    "reutilizavel": true,
+    "dependencias": []
+}

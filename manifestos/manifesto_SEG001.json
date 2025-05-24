@@ -1,0 +1,10 @@
+{
+    "id": "SEG001",
+    "nome_simbolico": "validador_seguro",
+    "fase": "E",
+    "tipo": "seguranca",
+    "criador": "LSAN",
+    "descricao": "Valida entradas contra comandos maliciosos",
+    "reutilizavel": true,
+    "dependencias": []
+}

@@ -1,2 +1,3 @@
-# arkontech
-Sistema simbólico modular com blocos organizados
+# ARKONTECH
+
+Sistema modular simbólico com blocos funcionais organizados por fases.

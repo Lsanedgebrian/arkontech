@@ -1,0 +1,22 @@
+{
+    "blocos": [
+        {
+            "id": "REP001",
+            "nome": "replicador_basico",
+            "fase": "B",
+            "tipo": "replicador"
+        },
+        {
+            "id": "CON001",
+            "nome": "conector_simples",
+            "fase": "C",
+            "tipo": "conector"
+        },
+        {
+            "id": "SEG001",
+            "nome": "validador_seguro",
+            "fase": "E",
+            "tipo": "seguranca"
+        }
+    ]
+}

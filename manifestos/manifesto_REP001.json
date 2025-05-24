@@ -1,0 +1,10 @@
+{
+    "id": "REP001",
+    "nome_simbolico": "replicador_basico",
+    "fase": "B",
+    "tipo": "replicador",
+    "criador": "LSAN",
+    "descricao": "Replica blocos com base em padr\u00e3o simb\u00f3lico",
+    "reutilizavel": true,
+    "dependencias": []
+}
